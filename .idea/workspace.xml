@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ee82f58-fea0-44a5-8c07-3129c3e9eee1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intermediate Algorithm Scripting/07-dna-pairing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intermediate Algorithm Scripting/08-missing-letters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intermediate Algorithm Scripting/09-boo-who.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intermediate Algorithm Scripting/10-sorted-union.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Intermediate Algorithm Scripting/06-pig-latin.js" afterPath="$PROJECT_DIR$/Intermediate Algorithm Scripting/06-pig-latin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Intermediate Algorithm Scripting/08-missing-letters.js" afterPath="$PROJECT_DIR$/Intermediate Algorithm Scripting/08-missing-letters.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,58 +25,7 @@
     <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="03-roman-numeral-converter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/03-roman-numeral-converter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04-where-art-thou.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/04-where-art-thou.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06-pig-latin.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/06-pig-latin.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="07-dna-pairing.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/07-dna-pairing.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="08-missing-letters.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/08-missing-letters.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,6 +60,8 @@
         <option value="$PROJECT_DIR$/Intermediate Algorithm Scripting/05-search-and-replace.js" />
         <option value="$PROJECT_DIR$/Intermediate Algorithm Scripting/06-pig-latin.js" />
         <option value="$PROJECT_DIR$/Intermediate Algorithm Scripting/07-dna-pairing.js" />
+        <option value="$PROJECT_DIR$/Intermediate Algorithm Scripting/09-boo-who.js" />
+        <option value="$PROJECT_DIR$/Intermediate Algorithm Scripting/10-sorted-union.js" />
         <option value="$PROJECT_DIR$/Intermediate Algorithm Scripting/08-missing-letters.js" />
       </list>
     </option>
@@ -122,8 +73,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -151,11 +103,6 @@
               <item name="fcc-algorithm-challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="fcc-algorithm-challenge" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="fcc-algorithm-challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fcc-algorithm-challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="Intermediate Algorithm Scripting" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -180,25 +127,25 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.08-missing-letters.js">
-    <configuration name="02-diff-two-arrays.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02-diff-two-arrays.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
-    <configuration name="05-search-and-replace.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-search-and-replace.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
     <configuration name="06-pig-latin.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06-pig-latin.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
     <configuration name="07-dna-pairing.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07-dna-pairing.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
     <configuration name="08-missing-letters.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="08-missing-letters.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
+    <configuration name="09-boo-who.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="09-boo-who.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
+    <configuration name="10-sorted-union.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10-sorted-union.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.02-diff-two-arrays.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.05-search-and-replace.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.06-pig-latin.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.07-dna-pairing.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.08-missing-letters.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.06-pig-latin.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.07-dna-pairing.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.08-missing-letters.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.09-boo-who.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.10-sorted-union.js" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Node.js.08-missing-letters.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.07-dna-pairing.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.06-pig-latin.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.05-search-and-replace.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.02-diff-two-arrays.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.10-sorted-union.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.09-boo-who.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.07-dna-pairing.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.06-pig-latin.js" />
       </list>
     </recent_temporary>
   </component>
@@ -213,18 +160,17 @@
       <option name="presentableId" value="Default" />
       <updated>1512219171605</updated>
       <workItem from="1512219173657" duration="13707000" />
-      <workItem from="1512434827950" duration="3485000" />
+      <workItem from="1512434827950" duration="5816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17192000" />
+    <option name="totallyTimeSpent" value="19523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -423,7 +369,7 @@
     <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/06-pig-latin.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -431,15 +377,31 @@
     <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/07-dna-pairing.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/08-missing-letters.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="529">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/09-boo-who.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/10-sorted-union.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding />
         </state>
       </provider>

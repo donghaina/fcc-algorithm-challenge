@@ -1,18 +1,24 @@
 function fearNotLetter(str) {
   var arr = str.split('');
+  // console.log(arr);
   var start = str.charCodeAt(0);
   var end = str.charCodeAt(str.length-1);
-  var newArr = []
+  var newArr = [];
   for(var i=start;i<=end;i++){
-    newArr.push(String.fromCharCode(i))
+    newArr.push(String.fromCharCode(i));
   }
+  // console.log(newArr);
   var result = '';
-  arr.forEach(function (item) {
-    if(newArr.indexOf(item) !== -1){
-      result = newArr.indexOf(item);
-    }
-  });
-  return newArr[result];
+  if(arr.join('') === newArr.join('')){
+    result = undefined;
+  }else{
+    newArr.forEach(function (item) {
+      if(arr.indexOf(item) === -1){
+        result = item;
+      }
+    });
+  }
+  return result;
 }
 
 console.log(fearNotLetter("abce"));
