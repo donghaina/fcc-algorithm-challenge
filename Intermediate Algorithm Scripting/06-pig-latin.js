@@ -5,7 +5,8 @@ function translate(str) {
     newStr = str + 'way';
     return newStr;
   }else{
-    newStr = str.slice(1)+str.slice(0,1)+'ay';
+    var index = str.indexOf(str.match(regx)[0]);
+    newStr = str.slice(index)+str.slice(0,index)+'ay';
     return newStr;
   }
 }
