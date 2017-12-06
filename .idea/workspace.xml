@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ee82f58-fea0-44a5-8c07-3129c3e9eee1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intermediate Algorithm Scripting/11-convert-html-entities.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intermediate Algorithm Scripting/12-spinal-tap-case.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intermediate Algorithm Scripting/13-sum-all-odd-fibonacci-numbers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intermediate Algorithm Scripting/14-sum-all-primes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intermediate Algorithm Scripting/15-smallest-common-multiple.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,11 +26,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="12-spinal-tap-case.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="12-spinal-tap-case.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/12-spinal-tap-case.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13-sum-all-odd-fibonacci-numbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/13-sum-all-odd-fibonacci-numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
-              <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="20" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14-sum-all-primes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/14-sum-all-primes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15-smallest-common-multiple.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/15-smallest-common-multiple.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,6 +106,9 @@
         <option value="$PROJECT_DIR$/Intermediate Algorithm Scripting/08-missing-letters.js" />
         <option value="$PROJECT_DIR$/Intermediate Algorithm Scripting/11-convert-html-entities.js" />
         <option value="$PROJECT_DIR$/Intermediate Algorithm Scripting/12-spinal-tap-case.js" />
+        <option value="$PROJECT_DIR$/Intermediate Algorithm Scripting/13-sum-all-odd-fibonacci-numbers.js" />
+        <option value="$PROJECT_DIR$/Intermediate Algorithm Scripting/14-sum-all-primes.js" />
+        <option value="$PROJECT_DIR$/Intermediate Algorithm Scripting/15-smallest-common-multiple.js" />
       </list>
     </option>
   </component>
@@ -84,7 +118,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="825" />
@@ -143,26 +177,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.12-spinal-tap-case.js">
-    <configuration name="07-dna-pairing.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07-dna-pairing.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
+  <component name="RunManager" selected="Node.js.14-sum-all-primes.js">
     <configuration name="08-missing-letters.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="08-missing-letters.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
-    <configuration name="09-boo-who.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="09-boo-who.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
     <configuration name="10-sorted-union.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10-sorted-union.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
     <configuration name="12-spinal-tap-case.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="12-spinal-tap-case.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
+    <configuration name="13-sum-all-odd-fibonacci-numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="13-sum-all-odd-fibonacci-numbers.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
+    <configuration name="14-sum-all-primes.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="14-sum-all-primes.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.07-dna-pairing.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.08-missing-letters.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.09-boo-who.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.10-sorted-union.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.12-spinal-tap-case.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.08-missing-letters.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.10-sorted-union.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.12-spinal-tap-case.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.13-sum-all-odd-fibonacci-numbers.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.14-sum-all-primes.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.12-spinal-tap-case.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.08-missing-letters.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.10-sorted-union.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.09-boo-who.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.07-dna-pairing.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.14-sum-all-primes.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.13-sum-all-odd-fibonacci-numbers.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.12-spinal-tap-case.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.08-missing-letters.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.10-sorted-union.js" />
       </list>
     </recent_temporary>
   </component>
@@ -177,22 +211,21 @@
       <option name="presentableId" value="Default" />
       <updated>1512219171605</updated>
       <workItem from="1512219173657" duration="13707000" />
-      <workItem from="1512434827950" duration="8952000" />
+      <workItem from="1512434827950" duration="11253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22659000" />
+    <option name="totallyTimeSpent" value="24960000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37361112" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -434,8 +467,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/12-spinal-tap-case.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/13-sum-all-odd-fibonacci-numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="20" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/14-sum-all-primes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/15-smallest-common-multiple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
