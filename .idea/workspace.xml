@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ee82f58-fea0-44a5-8c07-3129c3e9eee1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array-unique.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/03-exact-change.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/04-inventory-update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/05-no-repeats-please.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/06-friendly-date-ranges.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/07-make-a-person.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/08-map-the-debris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/09-pairwise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/02-symmetric-difference.js" afterPath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/02-symmetric-difference.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,21 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="02-symmetric-difference.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/02-symmetric-difference.js">
+      <file leaf-file-name="09-pairwise.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/09-pairwise.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-395">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array-unique.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array-unique.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="116">
+              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -98,6 +94,15 @@
         <option value="$PROJECT_DIR$/Intermediate-Algorithm-Scripting/02-diff-two-arrays.js" />
         <option value="$PROJECT_DIR$/array-unique.js" />
         <option value="$PROJECT_DIR$/Advanced-Algorithm-Scripting/02-symmetric-difference.js" />
+        <option value="$PROJECT_DIR$/Advanced-Algorithm-Scripting/03-exact-change.js" />
+        <option value="$PROJECT_DIR$/Advanced-Algorithm-Scripting/05-no-repeats-please.js" />
+        <option value="$PROJECT_DIR$/Advanced-Algorithm-Scripting/demo.js" />
+        <option value="$PROJECT_DIR$/demo.js" />
+        <option value="$PROJECT_DIR$/Advanced-Algorithm-Scripting/04-inventory-update.js" />
+        <option value="$PROJECT_DIR$/Advanced-Algorithm-Scripting/06-friendly-date-ranges.js" />
+        <option value="$PROJECT_DIR$/Advanced-Algorithm-Scripting/07-make-a-person.js" />
+        <option value="$PROJECT_DIR$/Advanced-Algorithm-Scripting/08-map-the-debris.js" />
+        <option value="$PROJECT_DIR$/Advanced-Algorithm-Scripting/09-pairwise.js" />
       </list>
     </option>
   </component>
@@ -107,7 +112,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="820" />
@@ -164,6 +169,11 @@
               <item name="fcc-algorithm-challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="fcc-algorithm-challenge" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fcc-algorithm-challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fcc-algorithm-challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="Advanced-Algorithm-Scripting" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -174,6 +184,11 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSLint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -187,26 +202,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.02-symmetric-difference.js">
+  <component name="RunManager" selected="Node.js.09-pairwise.js">
     <configuration name="02-diff-two-arrays.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02-diff-two-arrays.js" working-dir="$PROJECT_DIR$/Intermediate-Algorithm-Scripting" />
     <configuration name="02-symmetric-difference.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02-symmetric-difference.js" working-dir="$PROJECT_DIR$/Advanced-Algorithm-Scripting" />
-    <configuration name="21-arguments-optional.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="21-arguments-optional.js" working-dir="$PROJECT_DIR$/Intermediate Algorithm Scripting" />
+    <configuration name="09-pairwise.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="09-pairwise.js" working-dir="$PROJECT_DIR$/Advanced-Algorithm-Scripting" />
     <configuration name="array-unique.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="array-unique.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="validate-us-telephone-numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Advanced-Algorithm-Scripting/01-validate-us-telephone-numbers.js" working-dir="$PROJECT_DIR$/Advanced-Algorithm-Scripting" />
+    <configuration name="demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo.js" working-dir="$PROJECT_DIR$" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.21-arguments-optional.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.validate-us-telephone-numbers.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.02-symmetric-difference.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.02-diff-two-arrays.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.array-unique.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.02-symmetric-difference.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.02-diff-two-arrays.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.array-unique.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.demo.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.09-pairwise.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.02-symmetric-difference.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.array-unique.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.02-diff-two-arrays.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.validate-us-telephone-numbers.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.21-arguments-optional.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.09-pairwise.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.demo.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.02-symmetric-difference.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.array-unique.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.02-diff-two-arrays.js" />
       </list>
     </recent_temporary>
   </component>
@@ -222,22 +237,22 @@
       <updated>1512219171605</updated>
       <workItem from="1512219173657" duration="13707000" />
       <workItem from="1512434827950" duration="24043000" />
-      <workItem from="1512693677535" duration="5748000" />
+      <workItem from="1512693677535" duration="12829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43498000" />
+    <option name="totallyTimeSpent" value="50579000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="820" extended-state="1" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3986014" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39290085" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -262,14 +277,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/01-validate-us-telephone-numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/03-roman-numeral-converter.js" />
     <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/04-where-art-thou.js" />
     <entry file="file://$PROJECT_DIR$/Basic Algorithm Scripting/04-find-the-longest-word-in-a-string.js" />
@@ -325,18 +332,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/array-unique.js">
+    <entry file="file://$PROJECT_DIR$/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="20" lean-forward="true" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/03-exact-change.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/05-no-repeats-please.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array-unique.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/02-symmetric-difference.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-395">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="326">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/04-inventory-update.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/08-map-the-debris.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="57" lean-forward="false" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/07-make-a-person.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/06-friendly-date-ranges.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/09-pairwise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding />
         </state>
       </provider>
