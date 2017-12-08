@@ -16,5 +16,5 @@ function diff(arr1, arr2) {
   return filteredArr;
 }
 
-diff([1, 2, 3, 5], [1, 2, 3, 4, 5]);
+console.log(diff([1, 2, 3, 5], [1, 2, 3, 4, 5]));
 
