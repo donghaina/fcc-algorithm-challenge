@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ee82f58-fea0-44a5-8c07-3129c3e9eee1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/07-make-a-person.js" afterPath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/07-make-a-person.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/08-map-the-debris.js" afterPath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/08-map-the-debris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/01-validate-us-telephone-numbers.js" afterPath="$PROJECT_DIR$/Advanced-Algorithm-Scripting/01-validate-us-telephone-numbers.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,10 +25,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="07-make-a-person.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="01-validate-us-telephone-numbers.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/01-validate-us-telephone-numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1035">
+              <caret line="45" column="20" lean-forward="false" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="string.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/string.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07-make-a-person.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/07-make-a-person.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1058">
+            <state relative-caret-position="667">
               <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
               <folding />
             </state>
@@ -96,6 +127,8 @@
         <option value="$PROJECT_DIR$/Advanced-Algorithm-Scripting/09-pairwise.js" />
         <option value="$PROJECT_DIR$/Advanced-Algorithm-Scripting/08-map-the-debris.js" />
         <option value="$PROJECT_DIR$/Advanced-Algorithm-Scripting/07-make-a-person.js" />
+        <option value="$PROJECT_DIR$/string.js" />
+        <option value="$PROJECT_DIR$/Advanced-Algorithm-Scripting/01-validate-us-telephone-numbers.js" />
       </list>
     </option>
   </component>
@@ -105,11 +138,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1498" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="817" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -196,26 +227,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.07-make-a-person.js">
-    <configuration name="02-symmetric-difference.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02-symmetric-difference.js" working-dir="$PROJECT_DIR$/Advanced-Algorithm-Scripting" />
+  <component name="RunManager" selected="Node.js.01-validate-us-telephone-numbers.js">
+    <configuration name="01-validate-us-telephone-numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01-validate-us-telephone-numbers.js" working-dir="$PROJECT_DIR$/Advanced-Algorithm-Scripting" />
     <configuration name="07-make-a-person.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07-make-a-person.js" working-dir="$PROJECT_DIR$/Advanced-Algorithm-Scripting" />
     <configuration name="08-map-the-debris.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="08-map-the-debris.js" working-dir="$PROJECT_DIR$/Advanced-Algorithm-Scripting" />
     <configuration name="09-pairwise.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="09-pairwise.js" working-dir="$PROJECT_DIR$/Advanced-Algorithm-Scripting" />
-    <configuration name="demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="string.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="string.js" working-dir="$PROJECT_DIR$" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.02-symmetric-difference.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.demo.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.09-pairwise.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.08-map-the-debris.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.07-make-a-person.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.09-pairwise.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.08-map-the-debris.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.07-make-a-person.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.string.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.01-validate-us-telephone-numbers.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.07-make-a-person.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.08-map-the-debris.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.09-pairwise.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.demo.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.02-symmetric-difference.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.01-validate-us-telephone-numbers.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.string.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.07-make-a-person.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.08-map-the-debris.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.09-pairwise.js" />
       </list>
     </recent_temporary>
   </component>
@@ -231,22 +262,22 @@
       <updated>1512219171605</updated>
       <workItem from="1512219173657" duration="13707000" />
       <workItem from="1512434827950" duration="24043000" />
-      <workItem from="1512693677535" duration="15590000" />
+      <workItem from="1512693677535" duration="19391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53340000" />
+    <option name="totallyTimeSpent" value="57141000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1498" y="23" width="1440" height="817" extended-state="1" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6027778" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27152777" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -271,7 +302,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/03-roman-numeral-converter.js" />
     <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/04-where-art-thou.js" />
     <entry file="file://$PROJECT_DIR$/Basic Algorithm Scripting/04-find-the-longest-word-in-a-string.js" />
     <entry file="file://$PROJECT_DIR$/Basic Algorithm Scripting/07-confirm-the-ending.js" />
@@ -310,26 +340,10 @@
     <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/20-everything-be-true.js" />
     <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/15-smallest-common-multiple.js" />
     <entry file="file://$PROJECT_DIR$/Intermediate Algorithm Scripting/21-arguments-optional.js" />
-    <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/01-validate-us-telephone-numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Intermediate-Algorithm-Scripting/02-diff-two-arrays.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="45" column="20" lean-forward="true" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -400,8 +414,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/07-make-a-person.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1058">
+        <state relative-caret-position="667">
           <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="20" lean-forward="false" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced-Algorithm-Scripting/01-validate-us-telephone-numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
           <folding />
         </state>
       </provider>
